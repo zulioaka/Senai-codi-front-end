@@ -1,6 +1,6 @@
 # Senai-codi-front-end
 <br>
-<h3> HTML </h3> 
+<h2> HTML </h2> 
 <br>
 HTML
 <br>
